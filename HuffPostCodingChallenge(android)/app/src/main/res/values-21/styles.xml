@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Settings activity theme. -->
+    <style name="AppTheme" parent="Theme.base">
+        <item name="android:colorPrimary">@color/primary</item>
+        <!--  darker variant for the status bar and contextual app bars-->
+        <item name="android:colorPrimaryDark">@color/darkPrimary</item>
+
+    </style>
+
+
+</resources>
