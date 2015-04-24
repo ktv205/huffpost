@@ -1,7 +1,7 @@
 <?php
-$servername = "huffpost.cywgftwybpn7.us-east-1.rds.amazonaws.com";
-$username = "krishna";
-$password = "frontline";
+$servername = "";
+$username = "";
+$password = "";
 $dbname="tweets";
 
 $conn = new mysqli($servername, $username, $password, $dbname);

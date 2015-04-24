@@ -2,9 +2,9 @@ import MySQLdb
 
 
 class DbAccess():
-    cnx = {'host': 'huffpost.cywgftwybpn7.us-east-1.rds.amazonaws.com',
-           'username': 'krishna',
-           'password': 'frontline',
+    cnx = {'host': '',
+           'username': '',
+           'password': '',
            'db': 'tweets'}
 
     def mysql_connect(self):
